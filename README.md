@@ -2,13 +2,13 @@
 
              
   <p align="center">Projeto elaborado duurante a <a href="https://agilizei.com/semana-agilizei/"> Semana agilizei 3.0 </a> utilizando Cypress 
-com objetivo de automatizar a cobertura de testes na plataforma <a href="https://devfinance-agilizei.netlify.app/">  Finance  </a> </p>
+com objetivo de automatizar a cobertura de testes na plataforma <a href="https://devfinance-agilizei.netlify.app/"> Dev Finance  </a> </p>
 
 
+![Cypress](https://media.giphy.com/media/H5DN2XMgvTxVieWbKu/giphy.gif)
 
 
-
-![image](https://user-images.githubusercontent.com/56687672/111808505-d68c3080-88b2-11eb-8782-d77f6c156910.png)
+entendi
   
   
   
