@@ -4,7 +4,7 @@
   "main": "a.js",
   "scripts": {
     "cypress:run": "npx cypress run",
-    "cypress:run:dash": "npx cypress run --record --key 3a7fbb03-c8f0-406f-b529-fd64f4a1057e"
+    "cypress:run:dash": "npx cypress run --record"
   },
   "keywords": [],
   "author": "",
