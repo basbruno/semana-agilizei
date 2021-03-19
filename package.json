@@ -1,0 +1,17 @@
+{
+  "name": "agilizei",
+  "version": "1.0.0",
+  "main": "a.js",
+  "scripts": {
+    "cypress:run": "npx cypress run",
+    "cypress:run:dash": "npx cypress run --record --key 3a7fbb03-c8f0-406f-b529-fd64f4a1057e"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.7.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
